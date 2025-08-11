@@ -98,6 +98,6 @@ router.delete("/:id", async (req, res) => {
   }
 });
 
-
+// Node js is a runtine environement 
 
 module.exports = router;
